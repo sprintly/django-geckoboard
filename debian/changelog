@@ -1,0 +1,5 @@
+python-django-geckoboard (1.2.2) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Graham Blache <graham@sprint.ly>  Tue, 15 May 2012 23:59:21 +0000

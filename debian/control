@@ -1,0 +1,13 @@
+Source: python-django-geckoboard
+Section: python
+Priority: extra
+Maintainer: Graham Blache <graham@sprint.ly>
+Build-Depends: cdbs, debhelper (>= 6), python (>= 2.5), python-support, python-setuptools
+Standards-Version: 3.8.3
+Homepage: https://github.com/sprintly/django-geckoboard
+
+Package: python-django-geckoboard
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python (>= 2.5), python-django (>= 1.2.0)
+Description: Django decorators for creating 
+custom widget endpoints for Geckoboard.
